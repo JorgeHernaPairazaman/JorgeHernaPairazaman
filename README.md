@@ -44,7 +44,7 @@ This repository is my **Proof of Work**: a direct showcase of how I think, desig
 
 | Project | Description | Stack |
 |---|---|---|
-| _Coming soon_ | | |
+| [riad-guest-flow](https://github.com/JorgeHernaPairazaman/riad-guest-flow) | Guest self-registration app for Moroccan riads — QR check-in + auto-generated police fiche PDF. | TanStack Start · Supabase |
 
 ## 🔗 Contact
 
