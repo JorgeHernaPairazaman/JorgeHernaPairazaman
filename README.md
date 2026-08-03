@@ -1,43 +1,54 @@
 <div align="center">
 
-# 👋 Jorge Herna Pairazamán
+# 👋 Jorge Herna
 
-### Product Manager | AI & No-Code Builder
+### AI Product Manager & Product Builder
 
-*Resolviendo problemas reales a través de estrategia de producto y prototipado rápido con IA.*
+*The first product is to try to solve a problem, the second iteration to try to solve it better, and the third, to make money with it.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-herna-pai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-herna-pai/)
 [![Web](https://img.shields.io/badge/Web-nocode--pm.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nocode-pm.com)
+[![Book a call](https://img.shields.io/badge/Book_a_call-15_min-00A2FF?style=for-the-badge&logo=cal.com&logoColor=white)](https://cal.com/jorge-herna/15-min-meeting)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About me
 
-Soy Product Manager con foco en construir, no solo en documentar. Combino estrategia de producto —descubrimiento, priorización, métricas— con capacidad de ejecución técnica potenciada por IA: paso de una idea a un prototipo funcional en horas, no en sprints. Este repositorio es mi **Proof of Work**: una muestra directa de cómo pienso, diseño y construyo productos usando herramientas de IA, automatización y plataformas no-code.
+Hi, I'm Jorge! Senior Product Manager with 10+ years of experience in product strategy, business growth, and technical execution. I build and scale digital products in weeks, not months, combining a senior PM mindset with hands-on, AI-native execution — Claude Code, Vercel, Supabase. As a Fractional CPO for seed-stage startups and SMEs, I help teams validate, build, and optimize their product roadmap with radical technical execution, cutting time-to-market and development costs through rapid prototyping and data-driven discovery. Founder of **NocodePM**, where we're transforming how software gets built with radical efficiency.
 
-## 🛠️ Stack & Herramientas
+This repository is my **Proof of Work**: a direct showcase of how I think, design, and build products using AI tools, automation, and no-code platforms.
 
-**Product**
-`Discovery` · `Roadmapping` · `Priorización (RICE/ICE)` · `Métricas & Analytics` · `PRDs` · `User Research`
+## 🛠️ Stack & Tools
 
-**AI Code Assistants**
-`Claude` · `Cursor` · `GitHub Copilot` · `v0`
+**Product Strategy**
+`Discovery` · `Roadmapping` · `Opportunity Solution Tree` · `Jobs to Be Done` · `OKRs` · `Prioritization (RICE/ICE)` · `PRDs` · `User Research`
+
+**AI-Native Development**
+`Claude Code` · `Cursor` · `GitHub Copilot` · `v0`
+
+**Product Building**
+`WeWeb` · `Bubble` · `Xano` · `Framer` · `Airtable` · `Softr` · `Glide`
 
 **Automation**
 `n8n` · `Make` · `Zapier`
 
-**No-Code Platforms**
-`Bubble` · `Webflow` · `Airtable` · `Softr` · `Glide`
+**Cloud & Backend**
+`Vercel` · `Supabase` · `API Integrations`
 
-## 📌 Proyectos destacados
+**Growth & Analytics**
+`AAARRR Framework` · `Mixpanel` · `Hotjar` · `Google Analytics` · `SQL`
 
-| Proyecto | Descripción | Stack |
+## 📌 Featured projects
+
+| Project | Description | Stack |
 |---|---|---|
-| _Próximamente_ | | |
+| _Coming soon_ | | |
 
-## 🔗 Contacto
+## 🔗 Contact
 
 - 💼 LinkedIn: [jorge-herna-pai](https://www.linkedin.com/in/jorge-herna-pai/)
 - 🌐 Web: [nocode-pm.com](https://nocode-pm.com)
+- 📧 Email: [jorge.herna@nocode-pm.com](mailto:jorge.herna@nocode-pm.com)
+- 📅 Book a 15-min call: [cal.com/jorge-herna/15-min-meeting](https://cal.com/jorge-herna/15-min-meeting)
