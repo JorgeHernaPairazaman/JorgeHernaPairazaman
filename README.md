@@ -20,10 +20,10 @@
 Hi, I'm Jorge! Senior Product Manager with 5+ years of experience in product strategy, growth, and rapid prototyping — across HealthTech, EdTech, and Travel. I'm an AI-native product builder: I ship working products in weeks using Claude Code, Lovable, Vercel, and Supabase, driven by business judgment rather than a classic engineering background. Founder of **NocodePM**, where I help seed-stage startups and SMEs validate and build product with the same approach.
 
 **Some numbers from that work:**
-- **+10% ARPU** across 3 MVPs shipped in DE/FR/BE — AVIV Group (real estate marketplace)
-- **+18% onboarding completion**, 400+ beta signups in 3 days — Musa (AI fashion recommendations)
-- **-20% time-to-decision** on a lawyer-matching AI tool — TogApp
-- **+20% traffic** — Product People client work
+- **0-to-1 launch with a 4-person team** for a Class B scale-up, 2x user data capture — Emma – The Sleep Company *(HealthTech)*
+- **NHS contract secured across 50+ hospitals** via 30+ clinician interviews — Rotageek *(HealthTech)*
+- **-50% product discovery time** on a 0-to-1 launch — Microverse *(EdTech)*
+- **+10% ARPU** across 3 MVPs shipped in DE/FR/BE — AVIV Group *(Real Estate Marketplace)*
 
 This repository is my **Proof of Work**: a direct showcase of how I think, design, and build products using AI tools, automation, and no-code platforms.
 
