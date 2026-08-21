@@ -17,7 +17,13 @@
 
 ## 🚀 About me
 
-Hi, I'm Jorge! Senior Product Manager with 5+ years of experience in product strategy, business growth, and technical execution. I build and scale digital products in weeks, not months, combining a senior PM mindset with hands-on, AI-native execution — Claude Code, Vercel, Supabase. As a Fractional CPO for seed-stage startups and SMEs, I help teams validate, build, and optimize their product roadmap with radical technical execution, cutting time-to-market and development costs through rapid prototyping and data-driven discovery. Founder of **NocodePM**, where we're transforming how software gets built with radical efficiency.
+Hi, I'm Jorge! Senior Product Manager with 5+ years of experience in product strategy, growth, and rapid prototyping — across HealthTech, EdTech, and Travel. I'm an AI-native product builder: I ship working products in weeks using Claude Code, Lovable, Vercel, and Supabase, driven by business judgment rather than a classic engineering background. Founder of **NocodePM**, where I help seed-stage startups and SMEs validate and build product with the same approach.
+
+**Some numbers from that work:**
+- **+10% ARPU** across 3 MVPs shipped in DE/FR/BE — AVIV Group (real estate marketplace)
+- **+18% onboarding completion**, 400+ beta signups in 3 days — Musa (AI fashion recommendations)
+- **-20% time-to-decision** on a lawyer-matching AI tool — TogApp
+- **+20% traffic** — Product People client work
 
 This repository is my **Proof of Work**: a direct showcase of how I think, design, and build products using AI tools, automation, and no-code platforms.
 
