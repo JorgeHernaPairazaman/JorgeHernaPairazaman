@@ -52,6 +52,7 @@ This repository is my **Proof of Work**: a direct showcase of how I think, desig
 | Project | Description | Stack |
 |---|---|---|
 | [riad-guest-flow](https://github.com/JorgeHernaPairazaman/riad-guest-flow) | Guest self-registration app for Moroccan riads — QR check-in + auto-generated police fiche PDF. | TanStack Start · Supabase |
+| [gum-journal](https://github.com/JorgeHernaPairazaman/gum-journal) | Photo journal for tracking gum health recovery after a deep cleaning — fixed-baseline comparison, no AI diagnostics. [Live app](https://gum-journal.vercel.app) | React · Supabase · PWA |
 
 ## 🔗 Contact
 
